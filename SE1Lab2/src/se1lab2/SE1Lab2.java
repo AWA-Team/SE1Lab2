@@ -20,6 +20,7 @@ public class SE1Lab2 {
         System.out.println("test");
         System.out.println("one more");
         System.out.println("new line by Amer");
+        System.out.println("conflict 2 by wasim");
     }
     
 }
