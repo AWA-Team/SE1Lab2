@@ -18,7 +18,7 @@ public class SE1Lab2 {
         // TODO code application logic here
 
         System.out.println("test");
-    
+        System.out.println("one more");
     }
     
 }
