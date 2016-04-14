@@ -16,12 +16,11 @@ public class SE1Lab2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-<<<<<<< HEAD
 
         System.out.println("test");
         System.out.println("one more");
-=======
->>>>>>> parent of fccf027... test
+        System.out.println("new line by Amer");
+        System.out.println("Confilict");
     }
     
 }
