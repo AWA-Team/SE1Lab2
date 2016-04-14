@@ -32,7 +32,9 @@ public class SE1Lab2 {
         
         System.out.println("I have seen tis and fix it ");
         
-        System.out.println("demo commit 20");
+//        System.out.println("demo commit 20");
+        System.out.println("demo commit 30");
+        // resolve conflict and keep value of 30
     }
     
 }
