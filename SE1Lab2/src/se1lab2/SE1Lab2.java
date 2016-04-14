@@ -20,11 +20,17 @@ public class SE1Lab2 {
         System.out.println("test");
         System.out.println("one more");
         System.out.println("new line by Amer");
-<<<<<<< HEAD
-        System.out.println("conflict 2 by wasim");
-=======
-        System.out.println("conflict 1 by Amer");
->>>>>>> 1b40b307e30cd3f06cf9687c571b9d4768111dab
+//<<<<<<< HEAD
+//        System.out.println("conflict 2 by wasim");
+//=======
+//        System.out.println("conflict 1 by Amer");
+//>>>>>>> 1b40b307e30cd3f06cf9687c571b9d4768111dab
+        
+        
+        
+        //I have see this problem 
+        
+        System.out.println("I have seen tis and fix it ");
     }
     
 }
