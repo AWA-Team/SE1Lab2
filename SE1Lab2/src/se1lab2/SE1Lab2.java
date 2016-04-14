@@ -31,6 +31,8 @@ public class SE1Lab2 {
         //I have see this problem 
         
         System.out.println("I have seen tis and fix it ");
+        
+        System.out.println("demo commit 10");
     }
     
 }
